@@ -2,7 +2,7 @@
 
 Countdown timer with multiple timer settings from 1 minute to 12 hours.
 
-[View Demo](https://ryanbriscall.github.io/TimerSystem)
+[View Demo](https://ryanbriscall.github.io/Timer)
 
 Lightweight, compatible, single-page web app (<abbr title="Single-page Application">SPA</abbr>) with no dependencies and zero additional HTTP requests.
 
